@@ -71,7 +71,7 @@ Python-based Exploratory Data Analysis (EDA) using Pandas, NumPy, and Matplotlib
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/ankita-khamkar
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: www.linkedin.com/in/ankita-khamkar-86441b396
 
 ---
 
