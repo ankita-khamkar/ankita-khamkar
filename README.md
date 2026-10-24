@@ -1,77 +1,69 @@
-# Hi there, I'm Ankita Khamkar 👋
+# Hi, I'm Ankita Khamkar! 👋
 
-## 📊 Aspiring Data Analyst
+### Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
-I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights. I enjoy building interactive dashboards, analyzing business data, and solving real-world problems using data analytics tools.
+I'm a B.Com graduate with hands-on experience in data analytics through internships and end-to-end projects. I enjoy transforming raw data into meaningful insights, building interactive dashboards, and using data to support better decision-making.
 
----
+## 👩‍💻 About Me
 
-## 🚀 About Me
+- 📊 Interested in Data Analytics and Business Intelligence.
+- 🐍 Working with Python, Pandas, NumPy, and Matplotlib.
+- 🗄️ Skilled in SQL, data cleaning, and exploratory data analysis.
+- 📈 Experienced in building interactive Power BI dashboards.
+- 🎯 Continuously improving my analytical and problem-solving skills.
+- 💼 Open to entry-level Data Analyst and Junior Data Analyst opportunities.
 
-- 🎓 Graduate
-- 📈 Aspiring Data Analyst
-- 💼 Currently seeking Data Analyst Fresher opportunities
-- 🌱 Continuously learning SQL, Python, Power BI, Excel, and Data Analytics
-- 📍 India
+## 🛠️ Technical Skills
 
----
+**Languages:** Python, SQL
 
-## 🛠️ Skills
+**Data Analysis:** Pandas, NumPy, Exploratory Data Analysis (EDA), Data Cleaning
 
-### Programming
-- Python
-- SQL
+**Visualization:** Power BI, Matplotlib, Seaborn, Excel
 
-### Data Analysis
-- Microsoft Excel
-- Power BI
-- Power Query
-- DAX
-- Pandas
-- NumPy
-- Matplotlib
+**BI Tools:** DAX, Power Query, Data Modeling, Dashboard Development
 
-### Database
-- MySQL
+**Excel:** Pivot Tables, Pivot Charts, XLOOKUP, VLOOKUP
 
-### Other
-- Git
-- GitHub
+## 🚀 Featured Projects
 
----
+### 1. SkillSwap Analytics Dashboard
+An interactive Power BI dashboard exploring skill distribution, teaching activities, learning engagement, and skill-exchange patterns.
 
-## 📂 Featured Projects
+🔗 [View Project Repository](https://github.com/ankita-khamkar/Skillswap---Analytics)
 
-### 📱 Mobile Sales Dashboard
-Interactive Power BI dashboard for analyzing mobile sales performance.
+### 2. Employee Performance Analysis
+A Python-based analysis of employee attendance, project completion, performance scores, salaries, and department-wise performance.
 
-### 🛒 E-Commerce Sales Dashboard
-Power BI dashboard providing business insights into sales, profit, and customer trends.
+🔗 [View Project Repository](https://github.com/ankita-khamkar/Employee-Performance-Dashboard)
 
-### 🛍️ Vrinda Store Sales Report
-Interactive Excel dashboard using Pivot Tables, Charts, and Slicers.
+### 3. Hospital Patient Analytics
+A healthcare analytics project examining patient data, hospital departments, diagnoses, length of stay, and treatment costs.
 
-### 📊 Superstore Sales Dashboard
-Power BI dashboard analyzing sales, profit, and customer performance.
+🔗 [View Project Repository](https://github.com/ankita-khamkar/Hospital-Patient-Analytics)
 
-### 🧠 OCD Patient Data Analysis
-Python-based Exploratory Data Analysis (EDA) using Pandas, NumPy, and Matplotlib.
+### 4. Educational Revenue Analytics
+An end-to-end business intelligence project focused on educational enrollments, transactions, revenue, payment methods, and course popularity.
 
----
+🔗 [View Project Repository](https://github.com/ankita-khamkar/Educational-Revenue-Analytics)
 
-## 📚 Currently Learning
+## 💼 Internship Experience
 
-- Advanced SQL
-- Advanced Power BI
-- Python for Data Analysis
-- Data Visualization
+- **NetTech India** — Data Analytics Intern
+- **Unified Mentor** — Data Analyst Intern
 
----
+## 📜 Certifications & Training
 
-## 📫 Connect With Me
+- Data Analytics Essentials — Cisco Networking Academy
+- Power BI Micro Course
+- Microsoft Power BI (Self-Learning)
+- Employability Skills and Placements Training — TNS India Foundation
 
-- GitHub: https://github.com/ankita-khamkar
-- LinkedIn: www.linkedin.com/in/ankita-khamkar-86441b396
+## 🤝 Connect With Me
+
+- 💻 GitHub: [ankita-khamkar](https://github.com/ankita-khamkar)
+- 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/ankita-khamkar-1b64701b4/)
+- 📧 Email: ankitakhamkar1304@gmail.com
 
 ---
 
